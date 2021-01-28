@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.csv
+*.zip
+*.tar.gz
+__pycache__
+*.txt
+Project_Plagiarism_Detection/data/*
+Project_Plagiarism_Detection/__MACOSX/*
